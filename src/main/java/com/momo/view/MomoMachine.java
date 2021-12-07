@@ -95,7 +95,6 @@ public class MomoMachine {
 				if (combo == 3) {
 					mapProducts = service.checkPrize(mapProducts, productModel, productModels, billModel);
 				}
-				System.out.println(mapProducts);
 				break;
 			case 2:
 				productModel = mapCaseProducts.get(key);
