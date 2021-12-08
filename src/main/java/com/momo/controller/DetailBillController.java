@@ -2,7 +2,7 @@ package com.momo.controller;
 
 import com.momo.model.BillModel;
 import com.momo.model.ProductModel;
-import com.momo.repository.DetailBillService;
+import com.momo.service.DetailBillService;
 import com.momo.service.impl.DetailBillServiceImpl;
 
 public class DetailBillController {

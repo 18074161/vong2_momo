@@ -1,4 +1,4 @@
-package com.momo.service;
+package com.momo.repository;
 
 import java.util.List;
 

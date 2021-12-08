@@ -6,12 +6,10 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
-import com.momo.entity.BillEntity;
 import com.momo.entity.DetailBillEntity;
-import com.momo.service.DetailBillRepository;
+import com.momo.repository.DetailBillRepository;
 
 public class DetailBillRepositoryImpl implements DetailBillRepository {
 

@@ -17,12 +17,12 @@ import com.momo.model.BillModel;
 import com.momo.model.ProductModel;
 import com.momo.model.PromotionModel;
 import com.momo.repository.BillRepository;
-import com.momo.repository.DetailBillService;
+import com.momo.repository.DetailBillRepository;
 import com.momo.repository.PromotionRepository;
 import com.momo.repository.impl.BillRepositoryImpl;
 import com.momo.repository.impl.DetailBillRepositoryImpl;
 import com.momo.repository.impl.PromotionRepositoryImpl;
-import com.momo.service.DetailBillRepository;
+import com.momo.service.DetailBillService;
 import com.momo.service.PromotionService;
 import com.momo.service.Service;
 

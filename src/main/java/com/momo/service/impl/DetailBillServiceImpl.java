@@ -9,11 +9,11 @@ import com.momo.model.BillModel;
 import com.momo.model.DetailBillModel;
 import com.momo.model.ProductModel;
 import com.momo.repository.BillRepository;
-import com.momo.repository.DetailBillService;
+import com.momo.repository.DetailBillRepository;
 import com.momo.repository.ProductRepository;
 import com.momo.repository.impl.DetailBillRepositoryImpl;
 import com.momo.repository.impl.ProductRepositoryImpl;
-import com.momo.service.DetailBillRepository;
+import com.momo.service.DetailBillService;
 import com.momo.service.ProductService;
 
 public class DetailBillServiceImpl implements DetailBillService {
